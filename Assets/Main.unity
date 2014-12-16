@@ -366,7 +366,6 @@ GameObject:
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 4
   m_Component:
-<<<<<<< HEAD
   - 4: {fileID: 668103146}
   - 33: {fileID: 668103145}
   - 136: {fileID: 668103144}
@@ -374,9 +373,6 @@ GameObject:
   - 54: {fileID: 668103142}
   - 59: {fileID: 668103141}
   - 114: {fileID: 668103140}
-=======
-  - 4: {fileID: 627091193}
->>>>>>> master
   m_Layer: 0
   m_Name: Capsule
   m_TagString: Untagged
@@ -389,7 +385,6 @@ MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 668103139}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -496,16 +491,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
 --- !u!1 &817020337
-=======
-  m_GameObject: {fileID: 627091192}
-  m_LocalRotation: {x: 0, y: 0, z: .317810953, w: -.948154092}
-  m_LocalPosition: {x: -.0380261727, y: -.817529321, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 510419398}
-  m_RootOrder: 0
---- !u!1 &986617633
->>>>>>> master
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
