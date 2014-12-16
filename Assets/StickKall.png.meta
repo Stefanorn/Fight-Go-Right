@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: bb112ac7f087dcc4ca242429144415b2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: VinstriFramhandleggur
+    21300002: VinstriUpHandleggur
+    21300004: Haus
+    21300006: "H\xE6griUppHandleggur"
+    21300008: "H\xE6griFramHandleggur"
+    21300010: "VinstirEfriF\xF3tur"
+    21300012: Skrokkur
+    21300014: "H\xE6griEfriF\xF3tur"
+    21300016: "VinstiNe\xF0rif\xF3tur"
+    21300018: "H\xE6griNe\xF0rif\xF3tur"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: VinstriFramhandleggur
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 382
+        width: 28
+        height: 83
+      alignment: 9
+      pivot: {x: .375603139, y: .842631161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VinstriUpHandleggur
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 368
+        width: 27
+        height: 99
+      alignment: 9
+      pivot: {x: .3709957, y: .876860023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Haus
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 372
+        width: 115
+        height: 106
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "H\xE6griUppHandleggur"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 370
+        width: 29
+        height: 97
+      alignment: 9
+      pivot: {x: .349866152, y: .874321043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "H\xE6griFramHandleggur"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 364
+        width: 27
+        height: 95
+      alignment: 9
+      pivot: {x: .532250285, y: .853342772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "VinstirEfriF\xF3tur"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 158
+        width: 27
+        height: 87
+      alignment: 9
+      pivot: {x: .564501703, y: .849866331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skrokkur
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 170
+        width: 32
+        height: 150
+      alignment: 9
+      pivot: {x: .663270473, y: .924532652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "H\xE6griEfriF\xF3tur"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 136
+        width: 25
+        height: 81
+      alignment: 9
+      pivot: {x: .465168446, y: .849495411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "VinstiNe\xF0rif\xF3tur"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 28
+        width: 31
+        height: 92
+      alignment: 9
+      pivot: {x: .752806365, y: .886420369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "H\xE6griNe\xF0rif\xF3tur"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 22
+        width: 25
+        height: 99
+      alignment: 9
+      pivot: {x: .395506591, y: .859268427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
