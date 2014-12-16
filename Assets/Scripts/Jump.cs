@@ -7,7 +7,7 @@ public class Jump : MonoBehaviour {
 	
 	// Use this for initialization
 	void Start () {
-		animator = GetComponent<Animator> ();
+		animator = GetComponentInChildren<Animator> ();
 	}
 	
 	// Update is called once per frame
