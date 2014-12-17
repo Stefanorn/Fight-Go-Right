@@ -24,7 +24,17 @@ public class AIMovement : MonoBehaviour
 	{
 		if(playerTransform == null)
 		{
-			playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
+			GameObject playerObject = GameObject.FindGameObjectWithTag("Player");
+			//playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
+
+			if(playerObject != null)
+			{
+				playerTransform = playerObject.transform;
+			}
+			else
+			{
+				return;
+			}
 		}
 		closestDistance = Mathf.Infinity;
 		GameObject closestEnemyPosition = null;

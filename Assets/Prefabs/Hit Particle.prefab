@@ -14,6 +14,7 @@ GameObject:
   - 114: {fileID: 11439468}
   - 114: {fileID: 11453478}
   - 114: {fileID: 11476006}
+  - 114: {fileID: 11471034}
   m_Layer: 0
   m_Name: Hit Particle
   m_TagString: Untagged
@@ -113,6 +114,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9687d5238b0b3b846b34b7894e62cda2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11471034
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 113592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8b2ead265381034585ff204c646a6f9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &11476006
