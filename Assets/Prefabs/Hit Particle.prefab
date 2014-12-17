@@ -12,6 +12,8 @@ GameObject:
   - 199: {fileID: 19913592}
   - 82: {fileID: 8245780}
   - 114: {fileID: 11439468}
+  - 114: {fileID: 11453478}
+  - 114: {fileID: 11476006}
   m_Layer: 0
   m_Name: Hit Particle
   m_TagString: Untagged
@@ -102,6 +104,28 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   minPitch: .800000012
   maxPitch: 1.20000005
+--- !u!114 &11453478
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 113592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9687d5238b0b3b846b34b7894e62cda2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11476006
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 113592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e884c9535e7c6d40927a7f9ba58b1b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!198 &19813592
 ParticleSystem:
   m_ObjectHideFlags: 1
